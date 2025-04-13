@@ -1,0 +1,23 @@
+git init
+git add .
+git commit -m "Inital commit"
+git add .
+git commit -m "Add starter code"
+git push -u origin master
+git fetch origin
+git checkout 1-remove-a-task-by-name
+git add .
+git commit -m "Added remove a task by name"
+git push
+git checkout 3-list-tasks-sorted-by-name
+git add .
+git commit -m "Added list tasks sorted by name"
+git push
+git checkout 7-count-tasks-per-category
+git add .
+git commit -m "Added count tasks per category"
+git push
+git checkout master
+git pull
+git merge 7-count-tasks-per-category
+git push origin master

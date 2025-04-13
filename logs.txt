@@ -1,0 +1,19 @@
+*   f874258 (HEAD -> master, origin/master) Merge branch 'master' of https://github.com/efimijacuneva/SI_2025_lab1_236007
+|\
+| *   e159cf1 Merge pull request #11 from efimijacuneva/3-list-tasks-sorted-by-name
+| |\
+| | * f150d88 (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) Added list tasks sorted by name
+| * |   2182d4a Merge pull request #10 from efimijacuneva/1-remove-a-task-by-name
+| |\ \
+| | |/
+| |/|
+* / | 638bdb4 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) Added count tasks per category
+|/ /
+| | * b3bb378 (refs/stash) WIP on 1-remove-a-task-by-name: f0cc7a4 Added remove task by name
+| |/|
+| | * 0d5860c index on 1-remove-a-task-by-name: f0cc7a4 Added remove task by name
+| |/
+| * f0cc7a4 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Added remove task by name
+|/
+* 26e3fb2 Add starter code
+* 050cdd5 Initial commit
